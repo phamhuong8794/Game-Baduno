@@ -1,8 +1,11 @@
 {
-	"IsAliveStore": true,
-	"IsShowOut": true,
-	"IsStartAlarm": true,
-	"TimeStartOut": 160000,
-	"StoreUrl": "https://www.facebook.com/",
-	"ImgUrl": "https://www.facebook.com/"
+my-data: [
+{
+is-alive-store: "true",
+is-show-out: "true",
+is-start-alarm: "true",
+time-start-out: "160000",
+package-name-replace: "xxx.yyy.zzzz",
+}
+]
 }
