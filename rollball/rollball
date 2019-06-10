@@ -1,9 +1,31 @@
 {
-	"IsAliveStore": "true",
-	"IsShowOut": "true",
-	"IsStartAlarm": "true",
-	"TimeStartOut": "160000",
-	"StoreUrl": "https://www.facebook.com/",
-	"ImgUrl": "https://i.imgur.com/7mQWmql.png",
-	"ImgUrlFull": "https://i.imgur.com/7mQWmql.png"
+	"OutAds": [
+		{
+			"IsAliveStore": "true",
+			"IsShowOut": "true",
+			"IsStartAlarm": "true",
+			"TimeStartOut": "160000",
+			"StoreUrl": "https://www.facebook.com/",
+			"ImgUrl": "https://i.imgur.com/7mQWmql.png",
+			"ImgUrlFull": "https://i.imgur.com/7mQWmql.png"
+		},
+		{
+			"IsAliveStore": "true",
+			"IsShowOut": "true",
+			"IsStartAlarm": "true",
+			"TimeStartOut": "160000",
+			"StoreUrl": "https://www.facebook.com/",
+			"ImgUrl": "https://i.imgur.com/7mQWmql.png",
+			"ImgUrlFull": "https://i.imgur.com/7mQWmql.png"
+		},
+		{
+			"IsAliveStore": "true",
+			"IsShowOut": "true",
+			"IsStartAlarm": "true",
+			"TimeStartOut": "160000",
+			"StoreUrl": "https://www.facebook.com/",
+			"ImgUrl": "https://i.imgur.com/7mQWmql.png",
+			"ImgUrlFull": "https://i.imgur.com/7mQWmql.png"
+		}
+	]
 }
