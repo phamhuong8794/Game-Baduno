@@ -1,11 +1,37 @@
 {
-my-data: [
-{
-is-alive-store: "true",
-is-show-out: "true",
-is-start-alarm: "true",
-time-start-out: "160000",
-package-name-replace: "xxx.yyy.zzzz",
-}
-]
+	"ads":
+	{
+		"admob":
+		{
+			"banner":"ca-app-pub-4211189340448599/8595023431",
+			"interstitial":"ca-app-pub-4211189340448599/7281941763",
+			"video":"ca-app-pub-3940256099942544/5224354917"
+		},
+		"unity":
+		{
+			"video_id":"94f689be-87e7-490d-b396-f3e9f1354bbc"
+		},
+		"facebook":
+		{
+			"facebook_name":"ID test",
+			"facebook_app_id":" 1391829767625856",
+			"interstitial_id":"",
+			"banner_id":  ""
+		},
+		"control":
+		{
+			"interstitial":"admob",
+			"video":"unity",
+			"banner": "admob",
+			"rate":30
+		}
+	},
+	"info":
+	{
+		"name":"ID Test",
+		"type":"android",
+		"package":"com.xxx.yyyy",
+		"version_name":"1.0",
+		"version_code":"1.0.0"
+	}
 }
