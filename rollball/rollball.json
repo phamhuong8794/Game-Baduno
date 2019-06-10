@@ -1,0 +1,10 @@
+{
+	{
+		IsAliveStore: "true",
+		IsShowOut: "true",
+		IsStartAlarm: "true",
+		TimeStartOut: "160000",
+		StoreUrl: "https://www.facebook.com/",
+		ImgUrl: "https://www.facebook.com/"
+	}
+}
